@@ -19,7 +19,6 @@ Buat direktori proyek dan file-file yang diperlukan:
 mkdir file_dashboard
 cd file_dashboard
 touch __init__.py analysis.py main.py
-"""
 ```
 ### 2. Install Dependensi
 bash
