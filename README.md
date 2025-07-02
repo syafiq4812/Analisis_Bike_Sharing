@@ -27,12 +27,12 @@ pip install streamlit pandas
 Jalankan perintah berikut di terminal:
 
 ```bash
-streamlit run main.py
+streamlit run dashboard.py
 ```
 Aplikasi akan otomatis terbuka di browser default Anda di alamat:
 
 text
-http://localhost:8501
+http://localhost:8504
 ### 🎨 Fitur Dashboard
 - Overview Metrics:
 
